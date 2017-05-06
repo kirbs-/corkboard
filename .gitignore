@@ -1,0 +1,11 @@
+.DS_Store
+/dist
+/build
+dev-copy.py
+/corkboard/__pycache__/*
+/corkboard/*.pyc
+corkboard.egg*
+corkboard.sublime-project
+corkboard.sublime-workspace
+/corkboard/test/*.ipynb
+/corkboard/test/.ipynb_checkpoints/*
